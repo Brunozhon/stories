@@ -1,2 +1,2 @@
-# stories
+# Stories
 Online stories!
